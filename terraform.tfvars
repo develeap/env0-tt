@@ -10,3 +10,4 @@ start_date  = "16/03/2025"               # Changed to dd/mm/yyyy format
 end_date    = "19/03/2025"               # Changed to dd/mm/yyyy format
 email       = "amir.shalem@develeap.com"  # Replace with your develeap email
 Objective   = "env0-lab"
+aws_region  = "us-east-1"
